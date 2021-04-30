@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F0B5548B-C3F6-435E-8420-252981839D86}|Default">
+  <MonoDevelop.Ide.ItemProperties.Jones__James__CE04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jones_James_CE04/Program.cs">
+    <Files>
+      <File FileName="Jones_James_CE04/Program.cs" Line="112" Column="63" />
+      <File FileName="../Jones_James_Basic_Dictionaries/Jones_James_Basic_Dictionaries/Program.cs" Line="49" Column="98" />
+      <File FileName="../Week 1/Jones_James_CE02/Jones_James_CE02/Program.cs" Line="67" Column="17" />
+      <File FileName="../Jones_James_Looping_Dictionaries/Jones_James_Looping_Dictionaries/Program.cs" Line="1" Column="1" />
+      <File FileName="../Week 1/Jones_James_Variable_Conversions/Jones_James_Variable_Conversions/Program.cs" Line="1" Column="1" />
+      <File FileName="../Week 1/Jones_James_User_Prompt_Validation/Jones_James_User_Prompt_Validation/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jones_James_CE04" expanded="True">
+            <Node name="Jones_James_CE04" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
